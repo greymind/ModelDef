@@ -1,5 +1,5 @@
 # Greymind ModelDef
-Skeletal animation file format with importer and exporter for XNA
+Skeletal animation file format with Maya exporter and XNA importer
 
 # Format
 ModelDef is a simple, easy to use file format that supports:
