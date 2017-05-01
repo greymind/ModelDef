@@ -3,6 +3,7 @@ Skeletal animation file format with importer and exporter for XNA
 
 # Format
 ModelDef is a simple, easy to use file format that supports
+* Polygons
 * Lambert and phong shaders
 * Textures and UV Maps
 * Skeletal animations
